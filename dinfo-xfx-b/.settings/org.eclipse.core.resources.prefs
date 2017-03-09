@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/oec/controller/AnaysisController.java=UTF-8
+encoding//src/main/java/com/oec/controller/HomeController.java=UTF-8
+encoding//src/main/java/com/oec/demo/dao/AnaysisDao.java=UTF-8
+encoding//src/main/java/com/oec/demo/dao/impl/AnaysisDaoImpl.java=UTF-8
+encoding//src/main/java/com/oec/demo/service/AnaysisService.java=UTF-8
+encoding//src/main/java/com/oec/demo/service/UserService.java=UTF-8
+encoding//src/main/java/com/oec/test/DicLibraryTest.java=UTF-8
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/videos/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/videos/user/foot.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/videos/user/home.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
